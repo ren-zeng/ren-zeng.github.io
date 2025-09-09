@@ -1,11 +1,11 @@
 ---
-title: "Semester project with Lorenz Zauter: A Music-Theoretically Informed Metric for Evaluating Generated Harmonic Progressions"
+title: "Semester project with Lorenz Zauter"
 collection: teaching
-type: "Supervision of semester project"
+type: "Supervision"
 permalink: /teaching/SemesterProject2024
-venue: "Semester project in the MSc Applied Mathematics at ETH Zurich
+venue: "Semester project by Lorenz Zauter in the MSc Applied Mathematics at ETH Zurich
 written at DCML, EPF Lausanne, Switzerland"
-date: 2024-11-30
+date: 2024-11-30    
 location: 
 ---
 
