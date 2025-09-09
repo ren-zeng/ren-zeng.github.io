@@ -16,8 +16,8 @@ Education
 * M.A. Individualized study in Mathematics and Music, New York University, 2020
 * B.S. Mathematics with minor in Music, University of California San Diego, 2012
 
-Work experience
-======
+<!-- Work experience
+====== -->
 <!-- * Spring 2024: Academic Pages Collaborator
   * GitHub University
   * Duties includes: Updates and improvements to template
@@ -36,7 +36,7 @@ Work experience
 Skills
 ======
 
-* Functional programming (Haskell)
+* Programming: Haskell, Python, LaTeX
 * Language: English, Chinese
 * Music: Piano (Jazz)
 
@@ -64,4 +64,5 @@ Teaching
 Service and leadership
 ======
 
-* Currently signed in to 43 different slack teams
+* Reviewer for TISMIR Journal (2024)
+* Reviewer for JOSS Journal (2024)
