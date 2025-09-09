@@ -10,7 +10,8 @@ location:
 ---
 
 # A Music-Theoretically Informed Metric for Evaluating Generated Harmonic Progressions
-### Lorenz Zauter 
+
+### Lorenz Zauter
 
 ## Abstract
 
