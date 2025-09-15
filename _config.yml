@@ -27,8 +27,8 @@ author:
   pronouns         : # example: "she/her"  
   bio              : 
   location         : "Lausanne, Switzerland"
-  employer         : "EPFL - Digital and Cognitive Musicology Lab"
-  uri              : # URL
+  employer         : EPFL - Digital and Cognitive Musicology Lab
+  uri              : https://people.epfl.ch/zeng.ren?lang=en
   email            : 
 
   # Academic websites
