@@ -9,12 +9,20 @@ redirect_from:
 
 {% include base_path %}
 
+Employment
+======
+* Postdoc researcher, Digital and Cognitive Musicology Lab (DCML), EPFL, since 2026 
+
 Education
 ======
 
-* Ph.D, École Polytechnique Fédérale de Lausanne, 2026 (expected)
-* M.A. Individualized study in Mathematics and Music, New York University, 2020
-* B.S. Mathematics with minor in Music, University of California San Diego, 2012
+* Ph.D, EPFL, 2021-2026
+  * *Thesis:* Computational Modeling of Structural Repetition in Music
+  * *Committee:* Martin Rohrmeier (advisor), Yannis Rammos (co-advisor), Viktor Kunčak, Marta Kryven, Nori Jacoby, Frédéric Kaplan.
+* M.A. Mathematics and Music, New York University, 2018-2020
+  * *Thesis:* Style Composition With An Evolutionary Algorithm
+  * *Committee:* Panayotis Mavromatis (advisor), Brian McFee, Gregory Erickson
+* B.S. Mathematics, Music (minor), University of California San Diego, 2014-2018
 
 <!-- Work experience
 ====== -->
@@ -33,7 +41,7 @@ Education
   * Duties included: Tagging issues
   * Supervisor: Professor Git -->
   
-Skills
+<!-- Skills
 ======
 
 * Programming: Haskell, Python, LaTeX
@@ -65,4 +73,4 @@ Service and leadership
 ======
 
 * Reviewer for TISMIR Journal (2024)
-* Reviewer for JOSS Journal (2024)
+* Reviewer for JOSS Journal (2024) -->
