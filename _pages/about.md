@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-<!-- ## About me -->
-
 I am a postdoc researcher at EPFL working on computational modeling of tonal music and its underlying cognitive processes.
 My current approach mostly revolves around transparent reasoning (deductive systems), domain modeling (type systems) and program synthesis.
 
