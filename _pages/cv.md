@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-## Employment & Research Posititions
+## Employment
 
 * Postdoc researcher, Digital and Cognitive Musicology Lab (DCML), EPFL, since 2026 
 
