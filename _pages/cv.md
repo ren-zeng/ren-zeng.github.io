@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,12 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-Employment
-======
+## Employment & Research Posititions
+
 * Postdoc researcher, Digital and Cognitive Musicology Lab (DCML), EPFL, since 2026 
 
-Education
-======
+## Education
 
 * Ph.D, EPFL, 2021-2026
   * *Thesis:* Computational Modeling of Structural Repetition in Music
@@ -23,6 +22,10 @@ Education
   * *Thesis:* Style Composition With An Evolutionary Algorithm
   * *Committee:* Panayotis Mavromatis (advisor), Brian McFee, Gregory Erickson
 * B.S. Mathematics, Music (minor), University of California San Diego, 2014-2018
+
+
+## [Papers &amp; Preprints](/publications/)
+
 
 <!-- Work experience
 ====== -->
